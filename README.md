@@ -9,6 +9,9 @@ Drop-in **AGENTS.md** templates and **SKILL.md** skills that make AI coding agen
 - `skills/bug-repro`: turns a bug report into a failing test first
 - `guardrails/GUARDRAILS.md`: safety rules, permission tiers, secret hygiene
 
+## Prefer a form?
+Generate a tailored AGENTS.md in your browser: **[AGENTS.md generator](https://altros-experiments.github.io/agents-md-generator/)** (free, no sign-up, nothing leaves your browser).
+
 ## Use it
 1. Copy `agents-md/typescript-node.AGENTS.md` to your repo root as `AGENTS.md` (and `CLAUDE.md` for Claude Code). Edit the commands.
 2. Copy skills into `.claude/skills/` (Claude Code), `skills/` (OpenClaw), or `.agents/skills/`.
